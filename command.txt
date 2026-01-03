@@ -1,6 +1,7 @@
 <!-- You need to initialize the git init command for each and every project only once.-->
 git init
 git add .
+<!-- Everytime you commit.-->
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/PhantomOblivion/my-first-github.git
